@@ -1,0 +1,33 @@
+.caixa {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.fundo {
+  background-color: #444;
+  width: 50vw;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  padding: 10px;
+}
+.linha {
+  display: flex;
+  width: 100%;
+  min-height: 30px;
+}
+.campo {
+  width: 100%;
+  margin: 10px;
+}
+.nome {
+  background-color: #fff;
+}
+
+.skin {
+  background-color: #1869ff;
+}
+.tipo {
+  background-color: rgb(0, 173, 66);
+}
